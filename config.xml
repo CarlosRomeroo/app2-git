@@ -35,7 +35,7 @@ Carlos Alfredo Romero Gonzalez
 <allow-intent href="https://*/*"/>
 <acces origin="https://*/*"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
-
+<a href="http://cbtis016.edu.mx/" target="_self"> Ir a la página en internet relacionada al tema </a>
 <!--Colocar icono app-->
 <icon src="res/android/mdpi.png"/>
 
